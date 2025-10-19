@@ -5,5 +5,5 @@ uv venv
 
 # jupyter実行方法
 ```
-uv run jupyuter notebook
+uv run jupyter notebook
 ```
